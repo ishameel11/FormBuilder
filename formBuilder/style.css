@@ -1,0 +1,56 @@
+.form-wrap.form-builder .frmb-control li :hover {
+    background-color: rgb(197, 235, 200);
+}
+
+.form-wrap.form-builder .frmb-control li {
+    border: 5px solid rgba(1, 88, 1, 0.2);
+}
+
+.form-wrap.form-builder .stage-wrap.empty {
+    border: 7px dashed rgba(1, 88, 1, 0.2);
+}
+
+.form-wrap.form-builder .frmb li.form-field {
+    border: 5px solid rgba(1, 88, 1, 0.2);
+}
+
+.form-wrap.form-builder .frmb li.form-field {
+    background-color: beige;
+}
+
+.form-control {
+    border: 3px solid rgb(1, 68, 1);
+    color: green;
+}
+
+label {
+    color: green;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: green;
+}
+
+.table>thead>tr>th {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(21, 39, 20);
+    font-weight: bold;
+    font-size: medium;
+    border: 2px solid rgba(65, 57, 57, 0.1);
+}
+
+.table>tbody>tr>td {
+    color: rgb(242 249 242);
+    background-color: rgb(6 19 9);
+    font-weight: bold;
+}
+
+.form-wrap.form-builder {
+    margin: 100px;
+}
